@@ -1,1 +1,1 @@
-feature 1
+añadir característica 2
