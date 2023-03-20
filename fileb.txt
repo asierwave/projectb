@@ -1,1 +1,1 @@
-característica de rama secundaria
+feature 2
